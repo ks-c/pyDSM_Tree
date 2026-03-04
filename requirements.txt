@@ -1,0 +1,8 @@
+# DSM-5 结构化访谈辅助工具 - 依赖文件
+# 安装命令: pip install -r requirements.txt
+
+# Streamlit - Web 应用框架
+streamlit>=1.28.0
+
+# OpenAI - AI 接口调用
+openai>=1.0.0
